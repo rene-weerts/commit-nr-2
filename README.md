@@ -81,3 +81,4 @@ De landingspagina is zo goed als af! Je gaat deze pagina nu uitbreiden met een n
 * Let op: je hoeft geen gebruik te maken van media-queries.
 
 # poging-38
+# poging-83
