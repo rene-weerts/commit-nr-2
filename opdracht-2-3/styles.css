@@ -17,6 +17,7 @@ h3 {
 
 /*Als je inspect element bekijkt zie je dat tekst niet op dezelfde lijn staat.*/
 /*Hoe zet je de tekst in de hele container op de bottom??*/
+/*De kleur was niet helemaal duidelijk dus heb ik voor zwart gekozen.*/
 .navbar {
     display: inline-flex;
     width: 1496px;
