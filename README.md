@@ -51,6 +51,7 @@ Je gaat de landingspagina van een bedrijfswebsite bouwen. Deze zal er uiteindeli
 
 ### Eindresultaat
 #### Breed scherm
+
 ![desktop layout large](opdracht-2-3/assets/screenshot-large-body.png)
 #### Smaller scherm
 ![desktop layout small](opdracht-2-3/assets/screenshot-small-body.png)
@@ -69,8 +70,10 @@ De landingspagina is zo goed als af! Je gaat deze pagina nu uitbreiden met een n
 
 ### Eindresultaat
 #### Breed scherm
+
 ![desktop layout large](opdracht-2-3/assets/screenshot-large.png)
 #### Smaller scherm
+
 ![desktop layout small](opdracht-2-3/assets/screenshot-small.png)
 
 ### Randvoorwaarden

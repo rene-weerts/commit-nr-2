@@ -22,14 +22,15 @@
     justify-content: space-between;
 }
 /*opdracht 3*/
+/*\Waarom werkt dit ook zonder flex-direction te specificeren??*/
 .three{
     display: flex;
-    flex-direction: row;
+    /*flex-direction: row;*/
     justify-content: space-between;
 }
 ul {
     display: flex;
-    align-items: center;
+    /*flex-direction: row;*/
     list-style-type: none;
     justify-content: space-between;
     flex-basis: 250px;
@@ -44,13 +45,16 @@ form{
 
 }
 /*opdracht 5 big*/
-.five{
-    display: inline-flex;
-    flex-basis: min-content 360px;
 
-    /*justify-content: space-around;*/
-    /*flex-grow: 3;*/
+.five {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-basis: 360px;
+    flex-wrap: wrap;
+}
+article{
+
 
 
 }
-
