@@ -80,3 +80,4 @@ De landingspagina is zo goed als af! Je gaat deze pagina nu uitbreiden met een n
 * De content staat altijd 40 pixels van de rand van het scherm af, zowel in de navigatiebalk als op de pagina zelf.
 * Let op: je hoeft geen gebruik te maken van media-queries.
 
+# poging-38
